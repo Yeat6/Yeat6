@@ -13,6 +13,8 @@ Hello, i am Ananta and now currently im a student at SMKN 26 Jakarta, my major i
 <!-- #### 📱 My Contacts
 [![instagram](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) [![discord](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev) [![email](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)  ON PROGRESS  --->
 
+
+#### 🎶 Musics I Listen to
 <div>
   <a href="https://open.spotify.com/user/p9qin5bc0jb7g7c8sec27ecpe?si=f6271328aceb40c3">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=p9qin5bc0jb7g7c8sec27ecpe&unique={true|1|on|yes}" alt="Spotify recently played"  />
