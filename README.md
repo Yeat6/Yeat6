@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFwempvbmJzZXgxYWwxcTM4bDliZ2RmMno0MzFqZ2YyeTFwNHozaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLkk0MWvLamNoKziBX/giphy.gif">
+<p aligns="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s1OXJidTNmNWJqc2x1YnJyNHZoYTBnZ2MzbXQwNDhjbm0wdWhxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HsrirOvAaTa289NME2/giphy.gif">
 </p>
 
 # Hello Everyone, Ananta here 👋
@@ -11,7 +11,7 @@ Hello, i am Ananta. Im interested in the world of backend web development and da
 
 ---
  ## 📱 My Contact and Social
-Email: *ananta0106bhaskara@gmail.com*
+Email: *ananta0106bhaskara@gmail.com* 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ananta-panji-bhaskara-804318381) [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/bhaskara.docx?igsh=Y3h4NnMxbjVjc3E3)  
 
 ---
