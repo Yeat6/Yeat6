@@ -1,4 +1,4 @@
-<p aligns="center">
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s1OXJidTNmNWJqc2x1YnJyNHZoYTBnZ2MzbXQwNDhjbm0wdWhxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HsrirOvAaTa289NME2/giphy.gif">
 </p>
 
